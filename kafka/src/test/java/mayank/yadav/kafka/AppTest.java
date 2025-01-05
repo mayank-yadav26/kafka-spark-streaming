@@ -1,4 +1,4 @@
-package binod.suman.kafka;
+package mayank.yadav.kafka;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

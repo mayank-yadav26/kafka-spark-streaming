@@ -1,3 +1,16 @@
+# Ignore target folders in spark and kafka directories
+/spark/target/
+/kafka/target/
+
+# Ignore extra files for git
+/.project
+/kafka/.classpath
+/kafka/.project
+/kafka/.settings/
+/spark/.classpath
+/spark/.project
+/spark/.settings/
+	
 # Compiled class file
 *.class
 
